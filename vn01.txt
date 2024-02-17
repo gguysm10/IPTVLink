@@ -1,3 +1,6 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://cdn.hqth.me/vthanhmovies_schedule.xml" billed-msg="Last updated February 02, 2024"
+# For testing use only
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title=" VTV" group-logo="https://cdn.hqth.me/logo/category/vtv.png" tvg-logo="https ://cdn.hqth.me/logo/thumbs/1.png" Catchup="default" Catchup-days="2" Catchup-source="https://code.vthanhtivi.pw/xemlai/tv360/0P1KtAGNMhzMRSdn9HQrnQ/ 1708179789/2/dvr-${start}-${offset}", VTV1
 https://code.vthanhtivi.pw/getlink/tv360/0P1KtAGNMhzMRSdn9HQrnQ/1708179789/2/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title=" VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" Catchup="default" Catchup -days="2" Catchup-source="https://code.vthanhtivi.pw/xemlai/tv360/QNqUpaL7aAp6aStq2GDzNQ/1708179789/3/dvr-${start}-${offset}", VTV2
